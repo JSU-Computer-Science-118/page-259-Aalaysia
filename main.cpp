@@ -19,11 +19,10 @@ int main()
     
     if (d < 0)
     {
-        cout << "Complex conjugates\n";
+        cout << "Complex roots\n";
     }
     
     if (d > 0){
-        cout << "Real distinct roots\n";
         root1 = (-b + sqrt(d)) / (2.0 * a);
         root2 = (-b - sqrt(d)) / (2.0 * a);
         cout << "First root = " << root1 << endl;
@@ -32,10 +31,10 @@ int main()
         }
     
     else if (d == 0){
-        cout << "Repeated real roots\n";
+        
         root1 = -b / (2.0 * a);
         root2 = -b / (2.0 * a);
-        cout << "Root = " << root1 << endl;
+        cout << "The single Root is = " << root1 << endl;
         
 
     }
