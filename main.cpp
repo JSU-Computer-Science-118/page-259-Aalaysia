@@ -33,6 +33,11 @@ int main()
         
 
     }
+    
+    if (a == 0)
+    {
+        cout << "invalid entry";
+    }
    
  return 0;
  
