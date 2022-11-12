@@ -29,7 +29,7 @@ int main()
         
         root1 = -b / (2.0 * a);
         root2 = -b / (2.0 * a);
-        cout << "The single Root is  " << root1 << endl;
+        cout << "The single root is  " << root1 << endl;
         
 
     }
