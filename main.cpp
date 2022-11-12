@@ -8,12 +8,7 @@ int main()
 
 {
     double a, b, c, root1, root2, d;
-    cout << "Enter the value of a:"; 
-    cin >> a;
-    cout << "Enter the value of b:";
-    cin >> b;
-    cout << "Enter the value of c:";
-    cin >> c;
+    
     
     d= b * b - 4.0 * a * c;
     
