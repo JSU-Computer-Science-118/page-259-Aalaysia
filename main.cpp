@@ -1,4 +1,4 @@
-// Aalaysia Kelley j00958443 11/8/2022
+// Aalaysia Kelley j00958443 11/8/2022.
 // program #7 pg. 220
 
 #include <iostream>
