@@ -25,8 +25,8 @@ int main()
     if (d > 0){
         root1 = (-b + sqrt(d)) / (2.0 * a);
         root2 = (-b - sqrt(d)) / (2.0 * a);
-        cout << "-First root = " << root1 << endl;
-        cout << "-Second root = " << root2 << endl;
+        cout << "-First root  " << root1 << endl;
+        cout << "-Second root  " << root2 << endl;
         
         }
     
